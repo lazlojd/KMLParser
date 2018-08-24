@@ -141,15 +141,14 @@ Before:
 
 ## Built With
 
-* [python 2.7](https://www.python.org/download/releases/2.7/) - The web framework used
-
+* [python 2.7](https://www.python.org/download/releases/2.7/) 
 ## Contributing
 
 Feel free to make any change or improvement you see fit. Provide ample detail of your changes at the bottom of the README for review. 
 
 ## Versioning
 
-[SemVer](http://semver.org/) is used for versioning. 
+[SemVer](http://semver.org/) versioning. 
 
 V 1.0
 
