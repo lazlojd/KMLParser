@@ -2,7 +2,7 @@
 
 import re
 
-''' place KML style coordniates in JSON LngLat obeject'''
+# place KML style coordinates in JSON LngLat object
 def formatCoordinates(coordinates): 
 	coords = coordinates.split(",0")
 	formattedCoords = ""
